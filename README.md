@@ -1,2 +1,2 @@
 # reactjs_proj
-Creating mini projects using react.
+Creating mini projects using reactjs.
